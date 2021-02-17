@@ -1,0 +1,106 @@
+.AccountType .main{
+
+  position: relative;
+}
+
+.AccountType .back_gr{
+    background: #1DA799;
+}
+
+.AccountType .para_style1{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+color: #FFFFFF;
+}
+.AccountType .para_style2{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.AccountType .rightHeader{
+    font-weight: 700;
+    font-size: 17px;
+}
+.AccountType .rightPara{
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+.AccountType .sidebarcolheight{
+    height: 100vh;
+}
+
+.AccountType .img-wh{
+      width: 80px;
+      height: 80px;
+    
+}
+
+.AccountType .sidebarMiddleContent{
+    position: absolute;
+    top: 25vh;
+    font-size: 1rem;
+}
+
+.AccountType .sidebarfooterimg{
+    position: absolute;
+    bottom: 0px;
+    height: 39vh;
+    right: 0;
+}
+
+.AccountType .accounttype_logo{
+    height: 86px;
+width: 100px;}      
+
+
+.AccountType .cardfocus:focus,
+.AccountType .cardfocus:hover {
+     padding: 10px;
+    background: rgba(29, 167, 153, 0.1);
+    
+    border: 1px solid #1DA799;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.AccountType .back_g{
+    background: #E5E5E5;
+}
+
+.AccountType .bodr{
+    border: 1px solid #1DA799;
+}
+
+.AccountType .jumbotron {
+  
+    background: none !important;
+
+}
+
+.AccountType .right_con{
+    padding: 5rem;
+}
+
+
+
+@media screen and (max-width: 1300px)
+{
+    .sidebarfooterimg {
+                    
+      
+                     }
+
+                     .sidebarcolheight {
+                     
+            
+                    }
+  
+  }

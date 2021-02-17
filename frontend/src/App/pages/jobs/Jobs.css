@@ -1,0 +1,125 @@
+.btn--yellow {
+    width: 131px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.row.main {
+    display: grid;
+    grid-template-columns: 20% auto;
+    grid-gap: 23px;
+}
+.main-wrapper{
+    background: #E5E5E5;
+    padding: 50px 0 0 0 ;
+}
+/* Search Area */
+.row.search-area {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.search-area .search-bar {
+    margin-left: 14px;
+    border-radius: 3px;
+}
+.search-area .form-control {
+    border-radius: 3px;
+    width: 300px;
+    padding: 7px 0 7px 35px;
+    height: auto;
+
+}
+.search-bar .fa-search.form-control-feedback {
+    position: absolute;
+    top: 12px;
+    left: 23px;
+ }
+ span.fa.fa-search.form-control-feedback {
+    position: absolute;
+    top: 219px;
+    left: 355px;
+    font-size: 12px;
+    color: #6B6B6A;
+}
+ button.btn.btn--yellow.btn--medium button{
+    top: -4px; 
+ }
+ button.btn.btn--yellow.btn--medium {
+    top: 2px;
+    position: relative;
+    left: -74px;
+}
+/* Search Area */
+/* inner-content */
+.row.job {
+    display: grid;
+    grid-template-columns: 15% 70% 9% 6%;
+    padding-top: 10px;
+}
+.img-icon .avatar-user {
+    top: 320px;
+    left: 375px;
+    width: 50px;
+    height: 50px;
+}
+.inner-heading{
+    font-size: 16px;
+    background: #ffffff;
+    padding: 15px 10px;
+    color: #6B6B6A;
+}
+.content-heading {
+    padding-left: 0;
+}
+.content-heading h3 {
+    font-size: 16px;
+    font-family: 'Poppins';
+    font-weight: bolder;
+    width: 386px;
+    margin-left: -19px;
+}
+.fa-icon{
+    color: #6B6B6A;
+}
+.fa-thumbs-down {
+    content: "\f165";
+    background: #fff;
+    border-radius: 50%;
+    padding: 4px;
+    border: 0.5px solid rgba(107, 107, 106, 0.2);
+}
+i.fa.fa-bookmark-o {
+    content: "\f165";
+    background: #fff;
+    border-radius: 50%;
+    padding: 5px 7px;
+    border: 1px solid rgba(107, 107, 106, .1);
+    font-size: 13px;
+    position: relative;
+    right: 41px;
+}
+.paragraph p {
+    padding: 20px 56px 0 20px;
+    font-size: 14px;
+    color: #6B6B6A;
+    line-height: 23px;
+    
+}
+.paragraph a{
+    color: #1DA799;
+    padding-left: 10px;
+}
+ul.tags {
+    display: flex;
+    font-size: 12px;
+    padding: 17px 0 0 0;
+}
+ul.tags li a {
+    color: #1DA799;
+    padding-left: 10px;
+    background: #DDF2F0;
+    margin: 0 0 0 43px;
+    padding: 4px 5px;
+    border-radius: 2px;
+}
+
+/* inner-content */

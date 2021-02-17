@@ -1,0 +1,153 @@
+
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600);
+
+html {
+  font-size: 16px;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+  line-height: 1;
+}
+
+.AccountSettingMain {
+  height: 100vh;
+}
+
+.Tabs2 {
+  /* height: 100%; */
+  /* display: flex; */
+
+}
+
+.TabList2 {
+  width: 30%;
+  background: #ffffff;
+  padding-left: 5%;
+  /* border: 2px solid silver; */
+  float:left;
+  padding-top: 1%;
+}
+
+.TabPanel2 {
+  flex: 1;
+  display: none;
+  width:70%;
+  float:right;
+
+}
+.TabPanel-acc.is-active {
+  display: block;
+}
+
+.AS_Button{
+     display: inline-block;
+    padding: 7px 15px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: bold;
+    color: rgb(115 115 115);
+    border-radius: 25px;
+
+    background: #ffffff;
+    border :1px solid #6B6B6A;
+    border-radius: 25px;
+    border: 1px solid;
+}
+.AS_Button:focus,
+.AS_Button:hover {
+  outline: 0;
+  background: #899499;
+}
+.Tab.is-active .AS_Button {
+    background: #ffffff;
+    color: #EE9821;
+    border-radius: 25px;
+    border: 2px solid;
+}
+
+
+.AS_line{
+width: 0px;
+left: 72px;
+border: 1px dashed #a0a0a0;
+height: 30px;
+margin-left: 21px;
+}
+.Tab.is-active .AS_line{
+border: 1px dashed #EE9821;
+}
+
+.AS_but{
+  background: #ffffff;
+  border :1px solid #6B6B6A;
+  border-radius: 25px;
+  border: 2px solid;
+}
+
+.AS_text{
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #6B6B6A;
+  margin: 7%;
+}
+
+.Tab.is-active .AS_text{
+
+color: #EE9821;;
+}
+
+
+
+.AS_tb_nextButton{
+ 
+    background-color: #EE9821;
+    width: 116px;
+    height:36px;
+    border-radius: 2px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 12px;
+    line-height: 20px;
+    float: right;
+    margin-right: 5%;
+    cursor: pointer;
+}
+
+.AS_tb_prevButton{
+
+  border: none;
+  height: 37px;
+  width: 11%;
+  border-radius: 18px;
+  border: none;
+  cursor: pointer;
+}
+
+.AS_nextButtonDiv{
+  width:70%;
+  float:right;
+  /* border:2px solid green; */
+  background: #F7F8FA;
+  padding : 4% 0% 2% 8%;
+
+}
+
+.AS_tb_prevButton:focus,
+.AS_tb_prevButton:hover {
+  outline: 0;
+  background: #899499;
+}
+
+.AS_left_img{
+   margin-top: 6%;
+}

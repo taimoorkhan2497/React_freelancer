@@ -1,0 +1,36 @@
+.Select{
+    justify-content: space-around;
+    position: absolute;
+    height: 40px;
+width: 270px;
+left: 14.8%;
+right: 47.75%;
+top: 349px;
+border-radius: 4px;
+background: #FFFFFF;
+border: 1px solid rgba(107, 107, 106, 0.2);
+box-sizing: border-box;
+border-radius: 4px;
+font-family: Poppins;
+font-weight: 400;
+}
+.dropheader{
+    position: absolute;
+    height: 20px;
+width: 154px;
+left: 14.8%;
+right: 47.75%;
+top: 321px;
+border-radius: nullpx;
+font-family: Poppins;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+color: #6B6B6A;
+
+
+
+}

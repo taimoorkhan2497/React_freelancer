@@ -1,0 +1,65 @@
+.cd_rightbox{
+    width:643px;
+    height: 473px;
+    display: flex;
+}
+
+
+.cd_nextButton{
+    margin: 149px 152px;
+    float: right;
+}
+.cd_prevButton{
+    margin: 158px 0% 0% 120px;
+    float: left;
+    border: none;
+}
+
+.cd_icon{
+    height: 42px;
+    margin-top: 143px;
+    margin-left: 120px;
+box-sizing: border-box;
+background-repeat: no-repeat;}
+
+.cd_foot{
+    height: 180px;
+    margin-left: 120px;
+    background-repeat: no-repeat;
+    margin: auto;
+
+    position: absolute;
+width: 404px;
+height: 182px;
+left: 0px;
+top: 749px
+}
+
+.cd_Head{
+    margin-top: 17px;
+    margin-left: 116px;
+    font-family: Poppins;
+font-style: normal;
+font-size: 20px;
+}
+
+.cd_Para{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 20px;
+margin-left: 116px;
+width:280px
+}
+
+.cd_p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 20px;
+    margin: 20px 0px 20px 0px ;
+    width:280px
+
+}

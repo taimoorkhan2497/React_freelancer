@@ -1,0 +1,213 @@
+
+
+.Root {
+  height: 100vh;
+
+}
+
+
+
+
+.tabbarMain_bg{
+  background: #f7f8fa;
+}
+
+.tabbar_sidebar_bg{
+  background: white;
+}
+
+
+.tabbar_next_pre_btn_background{
+  background: #f7f8fa;
+}
+.tabbar_panel_background{
+  background: #f7f8fa;
+}
+
+.Buttoncls {
+  display: inline-block;
+  padding: 7px 15px;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: bold;
+    color: rgb(115 115 115);
+    background: #ffffff;
+    border :1px solid #6B6B6A;
+    border-radius: 25px;
+    border: 1px solid;
+    height: 40px;
+}
+.Buttoncls:focus,
+.Buttoncls:hover {
+  outline: 0;
+  /* background: #899499; */
+}
+.Tab.is-active .Button {
+    background: #ffffff;
+    color: #EE9821;
+    border-radius: 25px;
+    border: 2px solid;
+}
+ .ButtonclsActive {
+    background: #ffffff;
+    color: #EE9821;
+    border-radius: 25px;
+    border: 2px solid;
+}
+
+
+.line{
+width: 0px;
+left: 72px;
+border: 1px dashed #a0a0a0;
+height: 40px;
+margin-left: 21px;
+}
+.Tab.is-active .line{
+border: 1px dashed #EE9821;
+}
+.lineActive{
+border: 1px dashed #EE9821;
+}
+
+.but{
+  background: #ffffff;
+  border :1px solid #6B6B6A;
+  border-radius: 25px;
+  border: 2px solid;
+}
+
+.text2{
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #6B6B6A;
+  margin: 7%;
+      font-weight: 600;
+    font-size: 16px;
+}
+
+
+.tb_nextButton{
+ 
+    background-color: #EE9821;
+    width: 116px;
+    height:36px;
+    border-radius: 2px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 12px;
+    line-height: 20px;
+    float: right;
+    margin-right: 5%;
+    cursor: pointer;
+    border: none;
+
+}
+
+.tb_prevButton{
+
+  border: none;
+  height: 37px;
+  width: 16%;
+  border-radius: 18px;
+  border: none;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+
+.tb_prevButton:focus,
+.tb_prevButton:hover {
+  outline: 0;
+  background: #899499;
+}
+
+.left_img{
+   margin-top: 6%;
+}
+
+.Main {
+  overflow:hidden;
+}
+
+.row.tabbarMainRow {
+  display: block!important;
+}
+
+.tabbar_min_height{
+  min-height: 100vh;
+} 
+
+
+
+
+@media screen and (max-width: 1105px) {
+  .text2 {
+        font-size: 13px;
+  }
+
+}
+
+
+@media screen and (max-width: 965px) {
+  .text2 {
+        font-size: 11px;
+  }
+
+
+
+
+}
+@media screen and (max-width: 873px) {
+  .text2 {
+        font-size: 10px;
+  }
+  .Buttoncls{
+    padding: 5px 11px;
+    border-radius: 25px;
+    height: 32px;
+  }
+  
+
+  .line {
+    
+    margin-left: 17px;
+}
+
+
+
+}
+@media screen and (max-width: 786px) {
+  .text2 {
+        font-size: 10px;
+  }
+  .Buttoncls{
+    /* padding: 5px 9px; */
+    /* border-radius: 25px; */
+  /* height: 29px; */
+  padding: 5px 12px;
+  border-radius: 22px;
+  height: 37px;
+  }
+  
+
+  .line {
+    
+    margin-left: 17px;
+}
+
+}
+
+
+.nextButtonDiv{
+  width: 100%;
+  float: left;
+}
+    

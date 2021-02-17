@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ba7ae49.chunk.css",
+    "main.js": "/static/js/main.49efcdbe.chunk.js",
+    "main.js.map": "/static/js/main.49efcdbe.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5adc5ad9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5adc5ad9.js.map",
+    "static/js/2.d84a141f.chunk.js": "/static/js/2.d84a141f.chunk.js",
+    "static/js/2.d84a141f.chunk.js.map": "/static/js/2.d84a141f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0ba7ae49.chunk.css.map": "/static/css/main.0ba7ae49.chunk.css.map",
+    "static/js/2.d84a141f.chunk.js.LICENSE.txt": "/static/js/2.d84a141f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Poppins-Regular.8081832f.ttf",
+    "static/media/Status.1dd2804d.png": "/static/media/Status.1dd2804d.png",
+    "static/media/bannerr.903f6d13.svg": "/static/media/bannerr.903f6d13.svg",
+    "static/media/tuwaiqlogo.a8884a0c.svg": "/static/media/tuwaiqlogo.a8884a0c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5adc5ad9.js",
+    "static/js/2.d84a141f.chunk.js",
+    "static/css/main.0ba7ae49.chunk.css",
+    "static/js/main.49efcdbe.chunk.js"
+  ]
+}

@@ -1,0 +1,27 @@
+.banner{
+color: red;
+height: 223px;
+background-size: cover;
+background-position: center;
+}
+
+.btnback{
+    width: 92px;
+    height: 36px;
+    position: absolute;
+    top: 120px;
+    left: 60px;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    box-sizing: border-box;
+    border-radius: 2px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.btnback i{
+    margin-right:4px;
+}

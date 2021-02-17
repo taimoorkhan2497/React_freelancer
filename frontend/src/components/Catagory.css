@@ -1,0 +1,355 @@
+.body {
+  position: absolute;
+  height: 142px;
+  width: 74.8%;
+  left: 14.8%;
+  right: 47.75%;
+  top: 540px;
+  background: #ffffff;
+  border-radius: 4px;
+  display: inline;
+  margin: 2px 2px 2px 2px;
+}
+.txt {
+  position: absolute;
+  left: 14.8%;
+  right: 47.75%;
+  top: 48.7%;
+  bottom: 48.97%;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 20px;
+  color: #6b6b6a;
+}
+/* first row start */
+.Line {
+  padding: 0px 15px;
+  display: inline-flex;
+  justify-content: space-around;
+}
+.Line img {
+  height: 16px;
+  width: 16px;
+  border-radius: 2px;
+  position: absolute;
+  left: 3%;
+  top: 10.46%;
+}
+.Line span {
+  font-family: Poppins;
+  position: absolute;
+  left: 8%;
+  top: 9.18%;
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+.Line1 {
+  padding: 0px 15px;
+  display: flex;
+  justify-content: space-around;
+}
+.Line1 img {
+  height: 16px;
+  width: 16px;
+  border-radius: 2px;
+  position: absolute;
+  left: 36.6%;
+  top: 10.46%;
+}
+.Line1 span {
+  font-family: Poppins;
+  position: absolute;
+  left: 41.15%;
+  top: 9.18%;
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+.Line2 {
+  padding: 0px 15px;
+  display: inline-flex;
+  justify-content: space-around;
+}
+.Line2 img {
+  height: 16px;
+  width: 16px;
+  border-radius: 2px;
+  position: absolute;
+  left: 69.93%;
+  top: 10.46%;
+}
+.Line2 span {
+  font-family: Poppins;
+  position: absolute;
+  left: 74.48%;
+  top: 9.18%;
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+
+/* second row start */
+
+.Line2-column1 {
+  padding: 0px 15px;
+  display: inline-flex;
+  justify-content: space-around;
+}
+.Line2-column1 img {
+  height: 16px;
+  width: 16px;
+  border-radius: 2px;
+  position: absolute;
+  left: 3%;
+  top: 27.08%;
+}
+.Line2-column1 span {
+  font-family: Poppins;
+  position: absolute;
+  left: 8%;
+  top: 26.02%;
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+
+.Line2-column2 {
+  padding: 0px 15px;
+  display: inline-flex;
+  justify-content: space-around;
+}
+.Line2-column2 img {
+  height: 16px;
+  width: 16px;
+  border-radius: 2px;
+  position: absolute;
+  left: 36.6%;
+  top: 27.08%;
+}
+.Line2-column2 span {
+  font-family: Poppins;
+  position: absolute;
+  left: 41.15%;
+  top: 26.02%;
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+
+.Line2-column3 {
+  padding:0px 15px;
+  display: inline-flex;
+  justify-content: space-around;
+}
+.Line2-column3 img {
+  height: 16px;
+  width: 16px;
+  border-radius: 2px;
+  position: absolute;
+  left: 69.93%;
+  top: 27.08%;
+}
+.Line2-column3 span {
+  font-family: Poppins;
+  position: absolute;
+  left: 74.48%;
+  top: 26.02%;
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+
+/* third row  start */
+.Line3-column1 {
+  padding: 0px 15px;
+  display: inline-flex;
+  justify-content: space-around;
+}
+.Line3-column1 img {
+  height: 16px;
+  width: 16px;
+  border-radius: 2px;
+  position: absolute;
+  left: 3%;
+  top: 44.9%;
+}
+.Line3-column1 span {
+  font-family: Poppins;
+  position: absolute;
+  left: 8%;
+  top: 43.88%;
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+
+.Line3-column2 {
+  padding: 0px 15px;
+  display: inline-flex;
+  justify-content: space-around;
+}
+.Line3-column2 img {
+  height: 16px;
+  width: 16px;
+  border-radius: 2px;
+  position: absolute;
+  left: 36.6%;
+  top: 44.9%;
+}
+.Line3-column2 span {
+  font-family: Poppins;
+  position: absolute;
+  left: 41.15%;
+  top: 43.88%;
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+
+.Line3-column3 {
+  padding: 0px 15px;
+  display: inline-flex;
+  justify-content: space-around;
+}
+.Line3-column3 img {
+  height: 16px;
+  width: 16px;
+  border-radius: 2px;
+  position: absolute;
+  left: 69.93%;
+  top: 44.9%;
+}
+.Line3-column3 span {
+  font-family: Poppins;
+  position: absolute;
+  left: 74.48%;
+  top: 43.88%;
+  width: 9rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+/* forth row  start */
+
+.Line4-column1 {
+  padding: 0px 15px;
+  display: inline-flex;
+  justify-content: space-around;
+}
+.Line4-column1 img {
+  height: 16px;
+  width: 16px;
+  border-radius: 2px;
+  position: absolute;
+  left: 3%;
+  top: 62.8%;
+}
+.Line4-column1 span {
+  font-family: Poppins;
+  position: absolute;
+  left: 8%;
+  font-size: 0.9rem;
+  font-weight: 400;
+  top: 61.74%;
+}
+
+.Line4-column2 {
+  padding: 0px 15px;
+  display: inline-flex;
+  justify-content: space-around;
+}
+.Line4-column2 img {
+  height: 16px;
+  width: 16px;
+  border-radius: 2px;
+  position: absolute;
+  left: 36.6%;
+  top: 62.8%;
+}
+.Line4-column2 span {
+  font-family: Poppins;
+  position: absolute;
+  left: 41.15%;
+  top: 61.74%;
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+.Line4-column3 {
+  padding: 0px 15px;
+  display: inline-flex;
+  justify-content: space-around;
+}
+.Line4-column3 img {
+  height: 16px;
+  width: 16px;
+  border-radius: 2px;
+  position: absolute;
+  left: 69.93%;
+  top: 62.8%;
+}
+.Line4-column3 span {
+  font-family: Poppins;
+  position: absolute;
+  left: 74.48%;
+  top: 61.74%;
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+/* fifth row  start */
+.Line4-column1 {
+  padding: 0px 15px;
+  display: inline-flex;
+  justify-content: space-around;
+}
+.Line5-column1 img {
+  height: 16px;
+  width: 16px;
+  border-radius: 2px;
+  position: absolute;
+  left: 3%;
+  top: 80.7%;
+}
+.Line5-column1 span {
+  font-family: Poppins;
+  position: absolute;
+  left: 8%;
+  top: 79.6%;
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+.Line5-column2 {
+  padding: 0px 15px;
+  display: inline-flex;
+  justify-content: space-around;
+}
+.Line5-column2 img {
+  height: 16px;
+  width: 16px;
+  border-radius: 2px;
+  position: absolute;
+  left: 36.6%;
+  top: 80.7%;
+}
+.Line5-column2 span {
+  font-family: Poppins;
+  position: absolute;
+  left: 41.15%;
+  top: 79.6%;
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+.Line5-column3 {
+  padding: 0px 15px;
+  display: inline-flex;
+  justify-content: space-around;
+}
+.Line5-column3 img {
+  height: 16px;
+  width: 16px;
+  border-radius: 2px;
+  position: absolute;
+  left: 69.93%;
+  top: 80.7%;
+}
+.Line5-column3 span {
+  font-family: Poppins;
+  position: absolute;
+  left: 74.48%;
+  top: 79.6%;
+  font-size: 0.9rem;
+  font-weight: 400;
+}

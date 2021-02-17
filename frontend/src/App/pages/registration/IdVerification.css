@@ -1,0 +1,84 @@
+.idVerification .Pf-rightbox.bg2.b_line2 {
+    height: auto;
+}
+.idVerification .iv_rightbox{
+    width:643px;
+    height: 473px;
+    display: flex;
+}
+
+
+
+.idVerification .iv_icon{
+    width: 58px;
+    height: 59px;
+
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    margin-left: 17px;
+}
+
+.idVerification .iv_icon2{
+    height: 42px;
+    margin-top: 1.5%;
+    margin-left: 45%;
+box-sizing: border-box;
+background-repeat: no-repeat;}
+
+ .iv_foot{
+
+    background-repeat: no-repeat;
+    height: 28vh;
+    left: 0px;
+    margin-top: 0.5%;
+    background-size: contain;
+    background-position: bottom left;
+    position: absolute;
+    bottom: 0px;
+    right: 0;
+}
+
+.idVerification .iv_Head{
+
+    font-family:Poppins;
+font-style: normal;
+font-size: 20px;
+}
+
+.idVerification .iv_Para{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 20px;
+/* margin-left: 116px; */
+width:280px;
+padding-top: 1%;
+padding-bottom: 40px;
+}
+
+.idVerification .imgBack{
+    width: 86%;
+    background: white;
+    padding: 2%;
+}
+
+
+.idVerification .iv_info {
+    padding-left: 20px;
+    width: 100%;
+  }
+
+
+  .idVerification .iv_texthead{
+      
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: -8px;
+    color: #6B6B6A;
+    font-size: 16px;
+    margin: 0;
+    padding-bottom: 3px;
+  }

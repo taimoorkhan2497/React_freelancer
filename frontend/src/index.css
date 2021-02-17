@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'HelveticaNeue';
+    src: local('HelveticaNeue'), url(./fonts/HelveticaNeue/HelveticaNeue.ttf) format('truetype');
+  }
+  @font-face{
+    font-family: 'Poppins';
+    src: local(Poppins), url(./fonts/Poppins/Poppins-Regular.ttf)
+  }
+ 
+  

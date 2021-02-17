@@ -1,0 +1,36 @@
+.cardd-container{
+padding: 2px 16px;
+width: 160px;
+height:190px;
+background-color: #F5F5F5;
+text-align: center;
+border: 0.5px solid #999999;
+border-radius: 2px;
+margin-right: 24px;
+}
+
+.cardd-container button{
+  border: none;
+  background-color: none;
+}
+
+.cardd-container img{
+  padding-top: 16px;
+}
+
+.cardd-container p{
+font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 20px;
+color: #383B41;
+padding-top: 28px;
+}
+
+.cardd-container i{
+  font-size: 16px;
+  color: #383B41;
+  cursor: pointer;
+  padding-top: 9px;
+}

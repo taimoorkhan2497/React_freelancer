@@ -1,0 +1,71 @@
+input[type='radio']:after {
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+    top: -2px;
+    left: -1px;
+    position: relative;
+    background-color: #d1d3d1;
+    content: '';
+    display: inline-block;
+    visibility: visible;
+    border: 2px solid white;
+}
+
+input[type='radio']:checked:after {
+    width: 11px;
+    height: 11px;
+    border-radius: 15px;
+    top: -2px;
+    left: 1px;
+    position: relative;
+    background-color: #1DA799;
+    display: inline-block;
+    visibility: visible;
+    border: 2px solid white;
+    content: '';
+    border-radius: 100%;
+
+}
+
+
+.rd_btn1{
+
+    border: 1px solid;
+    height: 35px;
+    padding: 1% 2% 1% 1.5%;
+    width: 38%;
+    border-radius: 5px;
+    margin: 2% 3% 2% 0%;
+}
+
+.radio_Padg{
+    margin-left: 7%;
+}
+
+.radio_flex{
+    display: flex;
+    width: 35%;
+    float: left;
+
+}
+
+.GRdropheader{
+  
+    height: 20px;
+    left: 14.8%;
+    right: 47.75%;
+    top: 321px;
+    border-radius: nullpx;
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #6B6B6A;
+
+
+
+}

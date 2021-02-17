@@ -1,0 +1,93 @@
+section {
+  min-width: 30%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-center;
+  margin-left: 14.8%;
+  top: 480px;
+  position: absolute;
+}
+section div {
+  padding: 5px;
+  display: flex;
+  color: white;
+  font-family: Poppins;
+  font-size: 12px;
+  border-radius: 2px;
+  font-weight: 400;
+}
+.flex1 {
+  background: #61c1b8;
+  min-width: 10%;
+  /* flex-basis: 14%; */
+}
+.flex1 img {
+  margin: -1px;
+  margin-left: 13px;
+}
+.flex2 {
+  background: #61c1b8;
+  min-width: 20px;
+  /* flex-basis: 23%; */
+}
+.flex2 img {
+  margin: -1px;
+  margin-left: 13px;
+}
+.flex3 {
+  background: #61c1b8;
+  min-width: 20px;
+  /* flex-basis: 15%; */
+}
+.flex3 img {
+  margin: -1px;
+  margin-left: 13px;
+}
+.Skills {
+  position: absolute;
+  top: 43%;
+  position: absolute;
+  width: 74.8%;
+  height: 36px;
+  left: 14.8%;
+  right: 49.42%;
+  top: 433px;
+  background: #ffffff;
+  border: 1px solid rgba(107, 107, 106, 0.2);
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+.Skills span {
+  position: absolute;
+  width: 69px;
+  height: 20px;
+  left: 1.5%;
+  top: 8px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 20px;
+  color: #6b6b6a;
+}
+.plus {
+  position: absolute;
+  width: 1.2rem;
+  height: 1.2rem;
+  left: 95.5%;
+  top: 8px;
+}
+
+.Text {
+  position: absolute;
+  left: 14.8%;
+  right: 49.42%;
+  top: 37.92%;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 20px;
+  color: #6b6b6a;
+}

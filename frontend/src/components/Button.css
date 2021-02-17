@@ -1,0 +1,94 @@
+:root {
+    --primary: #4C4C4C;
+
+
+}
+
+.btn{
+    padding: 8px 20px;
+    border-radius:2px;
+    outline:none;
+    border:none;
+    cursor:pointer;
+}
+
+.btn--primary{
+    background-color: var(--primary);
+    color:white;
+    font-family: Helvetica;
+    border: 1px solid var(--primary);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.9rem;
+    line-height: 24px;
+    width: 170px;
+    text-align: center;
+}
+
+.btn--yellow{
+    background-color: #EE9821;
+    width: 116px;
+    height:36px;
+    border-radius: 2px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.btn--yellow1{
+    background-color: #EE9821;
+    width: 478px;
+    height:40px;
+    border-radius: 4px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+}
+.btn--white {
+    background-color: #ee9821;
+    height:38px;
+    width: 116px;
+    border-radius: 4px;
+    color: white;
+    font-family: "Poppins";
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+  }
+  .btn--Yellow{
+    position: absolute;
+    height: 100px;
+    width: 160px;
+    left: 350px;
+    font-weight: 700;
+    border-radius: none;
+    background: #ee9821;
+    box-shadow: none;
+    font-weight: 400;
+    color: white;
+    font-family: "Poppins";
+  }
+  /* .btn--project{
+    position: absolute;
+    height: 100px;
+    width: 200px;
+    left: 350px;
+    font-weight: 700;
+    border-radius: none;
+    background: #090b97;
+    box-shadow: none;
+    font-weight: 400;
+    color: white;
+    font-family: "Poppins";
+      
+  } */

@@ -1,0 +1,20 @@
+h2 {
+    width: 344px; 
+    text-align: center; 
+    border-bottom: 1px solid #DDDDDD;; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+ } 
+ 
+ h2 span { 
+   font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+   color: #383B41;
+     padding:0 10px; 
+     position: relative;
+    top: 7px;
+    background: white;
+ }

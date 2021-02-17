@@ -1,0 +1,87 @@
+
+.PS_tb_nextButton{
+ 
+    background-color: #EE9821;
+    width: 116px;
+    height:36px;
+    border-radius: 2px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 12px;
+    line-height: 20px;
+    float: right;
+    margin-right: 5%;
+    cursor: pointer;
+}
+      
+.PS_tb_prevButton{
+
+  border: none;
+  height: 37px;
+  width: 11%;
+  border-radius: 18px;
+  border: none;
+  cursor: pointer;
+}
+
+.PS_nextButtonDiv{
+  width:70%;
+  float:right;
+  /* border:2px solid green; */
+  background: #F7F8FA;
+  padding : 4% 0% 2% 8%;
+
+}
+
+.PS_tb_prevButton:focus,
+.PS_tb_prevButton:hover {
+  outline: 0;
+  background: #899499;
+} 
+
+
+.PSdropheader{
+  
+    height: 20px;
+    left: 14.8%;
+    right: 47.75%;
+    top: 321px;
+    border-radius: nullpx;
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #6B6B6A;
+}
+
+
+.EntryLevel{
+    width: 180px;
+    height: 128px;
+    left: 848px;
+    top: 524px;  
+    background: #FFFFFF;
+    box-shadow: 0px 4px 12px rgba(37, 57, 74, 0.05);
+    border-radius: 4px;
+}
+
+
+
+.EntryLevel:focus,
+.EntryLevel:hover {
+    width: 180px;
+    height: 128px;
+    left: 448px;
+    top: 524px;
+    background: rgba(29, 167, 153, 0.1);
+    
+    border: 1px solid #1DA799;
+    box-sizing: border-box;
+    border-radius: 4px;
+}

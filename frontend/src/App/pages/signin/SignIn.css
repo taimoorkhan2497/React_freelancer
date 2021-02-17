@@ -1,0 +1,126 @@
+.body {
+  overflow: hidden;
+}
+
+.si-container {
+  height: 90px;
+}
+
+.car {
+  height: 632px;
+  background-color: #e5e5e5;
+}
+
+.hello-container {
+  height: 624px;
+  width: 528px;
+  border-radius: 1%;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: -112px;
+}
+
+.top-bar {
+  width: 528px;
+  height: 112px;
+  background-color: #098073;
+  border-top-left-radius: 1%;
+  border-top-right-radius: 1%;
+}
+
+.top-bar x {
+  position: absolute;
+  top: 24px;
+  left: 25px;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.top-bar t {
+  position: absolute;
+  top: 52px;
+  left: 25px;
+  color: white;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.avatar-user {
+  position: absolute;
+  top: 88px;
+  left: 22px;
+  width: 72px;
+  height: 72px;
+  box-sizing: border-box;
+  border-radius: 60px;
+}
+
+.name {
+  position: absolute;
+  top: 192px;
+  left: 25px;
+}
+
+.email {
+  position: absolute;
+  top: 271px;
+  left: 25px;
+}
+
+.password {
+  position: absolute;
+  top: 350px;
+  left: 25px;
+}
+
+.tos-check {
+  position: absolute;
+  top: 429px;
+  left: 25px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 20px;
+  color: #6b6b6a;
+}
+
+.tos-check span {
+  color: #038a7c;
+}
+
+.checkbox {
+  margin-top: 2px;
+}
+
+.su-button-1 {
+  position: absolute;
+  top: 474px;
+  left: 25px;
+}
+
+.su-button-2 p {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  color: #495057;
+  padding-top: 524px;
+}
+
+.su-button-3 {
+  position: absolute;
+  top: 554px;
+  left: 25px;
+}
