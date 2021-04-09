@@ -1,0 +1,16 @@
+.add-portfolio {
+  background: #f9f9f9;
+}
+.add-portfolio .btn-primary {
+  background: #ee9821;
+  border-radius: 2px;
+}
+.add-portfolio .btn-link {
+  color: #6b6b6a;
+}
+.addportfolio-box {
+  margin-top: 40px;
+}
+.addportfolio-box .col-md-9 {
+  border-left: 1px solid rgb(207, 205, 205);
+}

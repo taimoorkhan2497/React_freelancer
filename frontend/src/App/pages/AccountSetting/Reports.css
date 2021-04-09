@@ -1,0 +1,46 @@
+.reports thead{
+    background: #f4fbfa;
+    font-weight: 600;
+}
+.amounts,  .avai-amount,.radio-button.checked{
+	background: #DDF2F0;
+}
+.amount, .radio-button i.active{
+	color: #1DA799;
+}
+.reports .reports-pagi__item button.reports-pagi__btn{
+    height: 27px;
+    width: 30px;
+    font-size: 14px;
+    font-weight: 700;
+    border: none;
+} 
+
+li.pagination-status__item {
+    display: block;
+    float: left;
+    margin: 5px;
+}
+
+li.reports-pagi__item {
+    display: block;
+    float: left;
+}
+
+.table.reports-table .clearfix {
+    background: #ddf2f0;
+}
+
+ul.reports-pagi {
+    float: right;
+    padding: 10px;
+}
+
+.form-group.payment-input {
+    width: 50%;
+}
+@media (max-width: 768px){
+.form-group.payment-input {
+    width: 100%;
+}
+}

@@ -1,0 +1,41 @@
+
+
+
+.bg1{
+    background: #FFFFFF;
+}
+
+.bg2{
+    background: #F7F8FA;
+}
+
+.b_line1{
+
+    border: 0.5px solid rgb(170, 156, 156);
+}
+.b_line2{
+
+    border: 0.5px solid rgb(247 248 250);
+}
+
+.pfmb{
+    margin-bottom: 6%;
+}
+
+.dropzone{
+    width: 100%;
+    min-height: 93px;
+    border-width: 1.3px;
+    border-color: #e1e1e1;
+    border-style: dashed;
+    border-radius: 4px;
+}
+
+.imgcssclass {
+    width: 100%;
+    height: 100%;
+}
+
+img.newimage {
+width: 100%;
+}

@@ -1,0 +1,54 @@
+.contact-information{
+background: white;
+margin-bottom: 63px;
+}
+
+.ci-heading{
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+padding: 25px 20px 30px 20px;
+display: flex;
+justify-content: space-between;
+}
+
+.ci-heading button{
+width: 80px;
+height: 34px;
+background: #EE9821;
+border-radius: 2px;
+border: 1px solid #EE9821;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+.ci-account{
+padding-left: 20px;
+border-bottom: 2px solid #f0f0f0;
+}
+
+.ci-account p{
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 28px;
+}
+
+.ci-account span{
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;  
+opacity: 0.8;
+padding-left: 29px;
+}
+
+.contact-information .my-profile-links{
+padding-top: 49px;
+}

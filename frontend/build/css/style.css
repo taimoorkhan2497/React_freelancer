@@ -1,0 +1,69 @@
+
+
+banner-ac{
+  background-image: url(banner.png);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  padding-top: 300px;
+  position: relative;
+}
+.banner-ac .change-cover-btn {
+  position: absolute;
+  top: 25px;
+  right: 40px;
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  box-sizing: border-box;
+  border-radius: 2px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 20px;
+
+}
+.banner-ac .change-cover-btn a {
+  color: #FFFFFF;
+  margin-left: 10px;
+}
+.banner-ac .change-cover-btn a:hover {
+  text-decoration: none;
+}
+
+.position-wrapper{
+  margin-top: 0px
+}
+
+.wrap-bg{
+  background-color: #fff;
+}
+
+
+
+.btn-circle.btn-sm { 
+  width: 30px; 
+  height: 30px; 
+  padding: 6px 0px; 
+  border-radius: 15px; 
+  font-size: 8px; 
+  text-align: center; 
+} 
+.btn-circle.btn-md { 
+width: 50px;
+height: 50px;
+padding: 7px 10px;
+border-radius: 25px;
+font-size: 20px;
+text-align: center;
+border: 2px solid;
+} 
+
+.ButtonclsActive {
+  background: #ffffff !important;
+  color: #EE9821 !important;
+  border: 2px solid !important;
+  padding: 9px 17px !important;
+}

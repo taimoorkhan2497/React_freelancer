@@ -1,0 +1,9 @@
+.example span{
+font-style: normal !important;
+font-weight: 500 !important;
+font-size: 12px !important;
+line-height: 14px !important;
+color: #6B6B6A !important;
+opacity: 0.7 !important;
+margin-right: 8px;
+}

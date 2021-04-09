@@ -1,0 +1,57 @@
+.banner{
+height: 223px;
+background-size: cover;
+background-position: center;
+}
+
+.btnback{
+    width: 92px;
+    height: 36px;
+    position: absolute;
+    top: 120px;
+    left: 60px;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    box-sizing: border-box;
+    border-radius: 2px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.btnback i{
+    margin-right:4px;
+}
+
+.change-cover-btn{
+    background: rgba(255, 255, 255, 0.2);
+border: 1px solid rgba(255, 255, 255, 0.8);
+box-sizing: border-box;
+border-radius: 2px;
+width: 142px;
+height: 36px;
+margin-top: 30px;
+margin-right: 40px;
+color: white;
+font-size: 12px;
+}
+
+.change-cover-btn:hover{
+    opacity: 0.8;
+}
+
+.popup-with-form{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+color: white;
+margin-left: 9px;
+}
+
+.popup-with-form:hover{
+    color: white;
+}

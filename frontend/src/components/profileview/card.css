@@ -1,0 +1,93 @@
+.CarD{
+    border-radius: 0px;
+
+    }
+    .profile{
+        text-align: center;
+    }
+    .profile p{
+        font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    text-align: center;
+    color: #6B6B6A;
+    }
+    .profile h6{
+        font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #6B6B6A;
+
+    }
+    .complete-profile{
+
+        margin: 8px 7px 17px;
+        border-bottom: 2px solid#4ab9ad;
+        font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #6B6B6A;
+    }
+    .Details-subtext{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11.5px;
+    line-height: 20px;
+    color: #6B6B6A;
+    opacity: 0.8;
+    }
+    .details-info i{
+        color:#1DA799;
+        padding: 0 10px 0 0;
+    }
+    .Details-subtext .fa-heart{
+        background: #1DA799;
+        padding: 4px;
+        border-radius: 50%;
+        color:#FFFFFF;
+        font-size: 8px;
+    }
+
+    .img_setting{
+        margin-right: 10px;
+        color: #1DA799;
+        height: 13px;
+        width: 13px;
+    }
+    .img_setting p{
+        position: absolute;
+        height: 13.31px;
+width: 13.3px;
+border-radius: 0px;
+margin-right: 10px;
+color: #1DA799;
+    }
+    .img_setting_Indore{
+        height: 23px;
+    width: 23px;
+    }
+    .img_setting_screen{
+        height: 21px;
+        width: 16px;
+        margin-left: 5px;
+    }
+    @media only screen and (max-width: 1000px) {
+        .complete-profile h5 {
+            font-size: 12px;
+        }
+        .complete-profile {
+            margin: 22px 1px 19px;
+        }
+        .Details-subtext {
+            margin: 0px 0px 0px 0px;
+
+        }
+
+      }

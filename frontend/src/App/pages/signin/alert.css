@@ -1,0 +1,96 @@
+.alert-page {
+  background: #ddf2f0;
+}
+.alert-page a.email-icon {
+  position: absolute;
+  top: 14px;
+  right: 4px;
+}
+.sub-form-sec .sub-icon {
+  position: absolute;
+  left: 13px;
+  top: 28px;
+  z-index: 1;
+}
+.alert-page .btn-primary {
+  color: #fff;
+  background-color: #ee9821;
+}
+.alert-page .input-group .form-control {
+  height: 80px;
+  border-radius: none;
+  padding: 0 0 0 46px;
+}
+.alert-text {
+  color: #ee9821;
+}
+.alert-para {
+  line-height: 32px;
+}
+.alert-img-wrap {
+  position: relative;
+  width: 300px;
+  height: 400px;
+}
+.alert-img-wrap img {
+  position: absolute;
+  width: 92%;
+  top: -155px;
+}
+.alert-front-img {
+  position: relative;
+  width: 298px;
+  left: 66px;
+  top: 72px;
+}
+.alert-front-img img {
+  position: absolute;
+  width: 92%;
+  top: -437px;
+}
+.drop-img {
+  position: relative;
+}
+.drop-img img {
+  position: absolute;
+  top: 0px;
+  width: 43px;
+}
+
+.alert-front-img {
+  position: relative;
+}
+.alert-page-picutre {
+  position: absolute;
+  top: -425px;
+    left: -36px;
+}
+.alert-time {
+  left: 37px;
+  border-bottom: 4px dotted;
+}
+.al-picture-email {
+  position: relative;
+  top: -459px;
+    left: 261px;
+    color: #ddf2f0;
+  width: 60px;
+  height: 60px;
+  border-radius: 70px;
+  text-align: center;
+  background: linear-gradient(141.82deg, #fad961 13.67%, #f76b1c 84.68%);
+}
+.al-picture-email i {
+  top: 15px;
+  position: relative;
+  color: white;
+  font-size: 27px;
+}
+.alert-page a {
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0px;
+}

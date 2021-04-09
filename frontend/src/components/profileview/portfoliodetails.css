@@ -1,0 +1,27 @@
+
+.ap-detail{
+    background: #F9F9F9;
+}
+.ap-detail .form-control-text{
+    height: 100px;
+    width: 100%;
+}
+.ap-detail .col-md-4{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #6B6B6A;
+}
+
+.ap-detail .iv_icon2{
+    height: 42px;
+    margin-top: 1.5%;
+    margin-left: 45%;
+box-sizing: border-box;
+background-repeat: no-repeat;}
+
+.ap-detail .btn-primary{
+    background: #EE9821;
+    border-radius: 2px;
+}

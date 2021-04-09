@@ -1,0 +1,32 @@
+body{
+    font-family: Poppins;
+}
+.help .pg-heading{
+    overflow: hidden;
+}
+.help .q-list h4{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+}
+.help .q-list p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+}
+.help .pg-heading .btn{
+    background: #EE9821;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+.help .pg-heading .btn:hover {
+    background-color: #d2933d;
+    border-color: transparent;
+}
+.help .fa.fa-plus{
+margin-right: 5px;
+}

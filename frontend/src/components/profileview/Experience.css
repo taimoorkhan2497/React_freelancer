@@ -1,0 +1,81 @@
+.Experr {
+  margin-top: 30px;
+}
+.Experr .Select {
+  justify-content: space-around;
+  /* position: absolute; */
+  height: 40px;
+  width: 100%;
+  left: 14.8%;
+  right: 47.75%;
+  top: 349px;
+  border-radius: 4px;
+  background: #FFFFFF;
+  border: 1px solid rgba(107, 107, 106, 0.2);
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 20px;
+  color: #6B6B6A;
+  padding-left: 3px;
+}
+.Experr .dropheader {
+  /* position: absolute; */
+  height: 20px;
+  width: 154px;
+  left: 14.8%;
+  right: 47.75%;
+  /* top: 321px; */
+  border-radius: nullpx;
+  font-family: Poppins;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #6B6B6A;
+}
+.form-control-text{
+  height: 100px;
+  width: 100%;
+}
+.Experr .col-md-6 {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24px;
+  color: #6b6b6a;
+}
+.Experr .btn-primary {
+  background: #ee9821;
+  border-radius: 2px;
+}
+.Experr .col-md-8 {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+  color: #6b6b6a;
+}
+.Experr .col-md-12 {
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  color: #6b6b6a;
+}
+.Experr .col-md-7 {
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: left;
+  color: #6b6b6a;
+  opacity: 0.6;
+}

@@ -1,0 +1,51 @@
+.notification-setting{
+margin-bottom: 63px;
+background:white;
+}
+
+.notification-setting .ps-heading .dropheader{
+position: unset;
+width: auto;
+padding-top: unset !important;
+font-size: 12px;
+}
+
+.notification-setting .ps-heading p{
+    font-size: 16px;
+}
+
+.notification-setting .ps-heading:nth-child(1) p{
+    padding-top: 30px;
+}
+
+.notification-setting .ps-heading span{
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 12px;
+color: #6B6B6A;
+}
+
+.notification-setting .ps-heading .Select{
+    position: unset;
+    width: 93%;
+    height: 36px;
+    margin-bottom: 20px;
+}
+
+.notification-setting .ps-heading{
+    border-bottom: 2px solid #f0f0f0;
+}
+
+.notification-setting .ps-heading:last-child{
+    border-bottom: none;
+    padding-bottom: 50px;
+}
+
+.email-toggle p{
+font-style: normal;
+font-weight: normal;
+font-size: 14px!important;
+line-height: 18px;
+color: #6B6B6A;
+}

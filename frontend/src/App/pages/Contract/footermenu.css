@@ -1,0 +1,16 @@
+.footer-nav{
+    background: #DDF2F0;
+}
+.row.footer-navbar {
+    width: 100%;
+}
+.footer-nav li.nav-item {
+    display: inline-block;
+}
+.footer-nav li.nav-item a{
+    font-size: 14px;
+    color: #6b6b6a;
+}
+.footer-des{
+    font-size: 14px;
+}

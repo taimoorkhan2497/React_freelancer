@@ -1,0 +1,149 @@
+
+/*.btn.button-color{
+    background-color: #ee9821;
+    border-color: transparent;
+    padding: 10px 20px;
+    font-size: 0;
+    border-radius: 5px;
+}
+.btn.button-color:hover{
+    background-color: #d2933d;
+    border-color: transparent;
+}
+.btn.button-color:hover a{
+    text-decoration:none;
+}
+.btn.button-color a{
+    color: #fff;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: poppins,sans-serif;
+}*/
+
+
+
+/*-------------------------------*/
+
+#snippetContent {
+    background: #e5e5e5;
+    padding-top: 60px;
+}
+
+/*--------------------------------*/
+
+.chat-online {
+    color: #34ce57
+}
+
+.chat-offline {
+    color: #e4606d
+}
+
+.chat-messages {
+    display: flex;
+    flex-direction: column;
+    max-height: 800px;
+    overflow-y: scroll
+}
+
+.chat-message-left,
+.chat-message-right {
+    /*display: flex;
+    flex-shrink: 0*/
+}
+
+.chat-message-left {
+    margin-right: auto;
+    width: 80%;
+}
+
+.chat-message-right {
+    /*flex-direction: row-reverse;*/
+    margin-left: auto;
+    width: 80%;
+}
+.py-3 {
+    padding-top: 1rem!important;
+    padding-bottom: 1rem!important;
+}
+.px-4 {
+    padding-right: 1.5rem!important;
+    padding-left: 1.5rem!important;
+}
+.flex-grow-0 {
+    flex-grow: 0!important;
+}
+.border-top {
+    border-top: 1px solid #dee2e6!important;
+}
+
+.list-group-item-action:hover, .list-group-item-action.active{
+    background-color: #DDF2F0 !important;
+    color: #6B6B6A !important;
+}
+.chat .badge.bg-count{
+    background: #1DA799;
+    color: #fff;
+    border-radius: 50%;
+    font-size: 10px;
+}
+.chat .list-group-item .small{
+    display: inline-block;
+    font-size: 11px;
+    color: #51606D;
+    width:100%;
+}
+.wrap-change .btn{
+    padding: 5px !important;
+    font-size: 10px !important;
+}
+.chat .chat-side {
+    padding-left: 0;
+}
+.chat .last-seen {
+    font-size: 10px;
+    color: #8D97A5;
+}
+.chat .list-group-item {
+   padding: .75rem .50rem !important;
+    border-bottom: 1px solid #D8E4F5 !important;
+}
+.chat h6{
+color: #6B6B6A;
+}
+.chat .bg-you{
+    background-color:#EAEFF4 !important;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 12px;
+    color: #6B6B6A;
+    line-height: 20px;
+}
+.chat .bg-other{
+    background-color:#61C1B8 !important;
+    display: inline-block;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 12px;
+    color: #6B6B6A;
+    line-height: 20px;
+}
+.chat .search-contacts{
+    width:30%;
+}
+
+
+
+@media (max-width: 991px){
+.chat .search-contacts {
+    width: 50%;
+}
+}
+@media (max-width: 575px){
+.chat .search-contacts {
+    width: 95%;
+}
+}
+

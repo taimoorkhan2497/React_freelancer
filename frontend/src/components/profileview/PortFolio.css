@@ -1,0 +1,19 @@
+.Portfol {
+  border-radius: 0px;
+  margin-top: 30px;
+}
+.Portfol .col-md-6 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  color: #6b6b6a;
+}
+.img-wraper {
+  overflow: hidden;
+}
+.Portfol .btn-primary {
+  background: #ee9821;
+  border-radius: 2px;
+}

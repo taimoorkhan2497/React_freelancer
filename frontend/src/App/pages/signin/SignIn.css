@@ -1,0 +1,70 @@
+/* saima or testing */
+.lin-btn button {
+  width: 100%;
+}
+
+.SignUp-flex-container .btn--yellow {
+  background-color: #EE9821;
+  width: 115px;
+  height: 36px;
+  border-radius: 2px;
+  color: white;
+  font-family: 'Poppins';
+  text-align: center;
+  font-style: normal;
+  font-weight: 400px;
+  font-size: 14px;
+  line-height: 23px;
+}
+.SignUp-flex-container .btn-default{
+  background: #EE9821;
+  border-radius: 4px;
+}
+.SignUp-flex-container button.btn.btn--project.btn--medium {
+  background: #ee9821;
+  color: #fff;
+  width: 116px !important;
+}
+
+
+
+.signInPage .error-message {
+  color: #cc0033;
+  display: inline-block;
+  font-size: 12px;
+  line-height: 15px;
+  margin: 5px 0 0;
+}
+
+.signInPage .input-group .error-message {
+  display: none;
+}
+
+/* Error Styling */
+
+.signInPage .error label {
+  color: #cc0033;
+}
+
+.signInPage .error input[type="text"] {
+  background-color: #fce4e4;
+  border: 1px solid #cc0033;
+  outline: none;
+}
+.signInPage .error input[type="password"] {
+  background-color: #fce4e4;
+  border: 1px solid #cc0033;
+  outline: none;
+}
+
+.signInPage .hide-icon-position{
+  display: flex;
+  position: relative;
+}
+
+.signInPage .hide-icon-position .hide-icon{
+  position: absolute;
+  top: -5px;
+  right: -6px;
+}
+

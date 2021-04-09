@@ -1,0 +1,68 @@
+.RadioActiveborder{
+background: #f5fbfb;
+border-bottom: 2px solid #D8E4F5;
+}
+
+.payment-withdraw{
+background: white;
+margin-bottom: 63px;
+}
+
+.pw-heading{
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+padding: 25px 20px 30px 20px;
+display: flex;
+justify-content: space-between;
+}
+    
+.pw-heading button{
+width: 133px;
+height: 34px;
+background: #EE9821;
+border-radius: 2px;
+border: 1px solid #EE9821;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+.pw-methods{
+padding: 0px 34px 40px 34px;
+}
+
+.modal-properties t{
+font-style: normal;
+font-weight: normal;
+font-size: 12px !important;
+line-height: 12px;
+}
+
+.pw-schedule{
+background: #f8f8f8;
+height: 99px;
+margin: 0px 20px 50px 20px;
+}
+
+.payment-withdraw .my-profile-links{
+padding-top: unset !important;
+}
+
+.pw-schedule-details{
+    padding: 15px 20px 0px 20px;
+}
+
+.pw-schedule-details button{
+float: right;
+width: 121px;
+height: 34px;
+border: 1px solid #6B6B6A;
+box-sizing: border-box;
+border-radius: 2px;
+}

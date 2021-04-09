@@ -1,0 +1,33 @@
+.account-settingLayout .ButtonclsActive{
+    background: #ffffff !important;
+    color: #EE9821 !important;
+    border: 2px solid !important;
+}
+
+.account-settingLayout .ButtonclsActiveButtonclsActive{
+    background: #ffffff !important;
+    color: #EE9821 !important;
+    border: 2px solid !important;
+}
+
+.account-settingLayout .btn-circle.btn-md:hover{
+    border: 2px solid #EE9821;
+    color:#EE9821;
+    background:white;
+  }
+
+.account-settingLayout .text2y-text{
+    color:#EE9821;
+    padding-left: 20px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.account-settingLayout .text2hidden{
+    padding-left: 20px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;}

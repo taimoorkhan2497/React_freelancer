@@ -1,0 +1,61 @@
+
+.ui-comments .btn-primary{
+  background: #EE9821;
+border-radius: 2px;
+}
+.ui-comments .col-md-9{
+  font-family: Poppins;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #6B6B6A;
+opacity: 0.8;
+}
+.ui-comments .col-md-3{
+font-family: Poppins;
+font-weight: 500;
+font-size: 14px;
+line-height: 28px;
+color: #6B6B6A;
+}
+.btn-edit {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: left;
+  
+}
+.ui-comments .col-md-12{
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: left;
+  
+}
+.tst {
+border-bottom: 1px solid #c5c5c4;
+}
+.lanuage-tag {
+  font-family: Poppins;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 18px;
+
+}
+.lanuage-tag a{
+  font-family: Poppins;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 18px;
+  color: #1DA799;
+background: #DDF2F0;
+
+}
+.main-profile-page ul li {
+  display: inline-flex;
+  margin-right: 10px;
+}

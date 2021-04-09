@@ -1,0 +1,31 @@
+body{
+color: #6B6B6A;
+}
+.main-area {
+    background: #E5E5E5;
+}
+.btn:focus {
+    box-shadow: none;
+    text-decoration: none;
+}
+.btn:hover {
+    text-decoration: none;
+}
+
+.faq .main-area .accordion .card-body p {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 28px;
+    color: #202B45;
+}
+
+.faq .accordion .btn.btn-link{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500 !important;
+    font-size: 18px;
+    line-height: 32px;
+    color: #6B6B6A !important;
+}

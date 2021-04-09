@@ -1,0 +1,33 @@
+.si-footer-page{
+    background: #FFFFFF;
+}
+.list-unstyled{
+    font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 40px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+.si-footer-page .pt-4{
+    font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+.twaiq-text{
+    color: #269D8C;
+    font-family: Poppins;
+font-size: 13px;
+font-style: normal;
+font-weight: 600;
+line-height: 28px;
+letter-spacing: 0px;
+text-align: left;
+}

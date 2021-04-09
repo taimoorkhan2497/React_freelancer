@@ -1,0 +1,125 @@
+:root {
+    --primary: #4C4C4C;
+
+
+}
+
+.btn{
+    padding: 8px 20px;
+    border-radius:2px;
+    outline:none;
+    border:none;
+    cursor:pointer;
+}
+
+.btn--primary{
+    background-color: var(--primary);
+    color:white;
+    font-family: Helvetica;
+    border: 1px solid var(--primary);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.9rem;
+    line-height: 24px;
+    width: 170px;
+    text-align: center;
+}
+
+.btn--yellow{
+    background-color: #EE9821;
+    width: 170px;
+    height:36px;
+    border-radius: 2px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.btn--yellow1{
+    background-color: #EE9821;
+    width: 478px;
+    height:40px;
+    border-radius: 4px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+}
+.btn--white {
+    background-color: #ee9821;
+    height:38px;
+    width: 116px;
+    border-radius: 4px;
+    color: white;
+    font-family: "Poppins";
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+  }
+  .btn--Yellow{
+    position: absolute;
+    height: 100px;
+    width: 160px;
+    left: 350px;
+    font-weight: 700;
+    border-radius: none;
+    background: #ee9821;
+    box-shadow: none;
+    font-weight: 400;
+    color: white;
+    font-family: "Poppins";
+  }
+  .btn--ADD{
+
+    width: 80px;
+    height: 34px;
+    background: #EE9821;
+    border-radius: 2px;
+    color: white;
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 20px;
+text-align: center;
+text-transform: uppercase;
+  }
+  .btn--load{
+width: 209px;
+height: 34px;
+border: 1px solid #6B6B6A;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+color: #6B6B6A;
+box-sizing: border-box;
+border-radius: 2px;
+  }
+.btn--delete{
+  background: #6B6B6A;
+  width: 20px;
+height: 34px;
+border: none;
+}
+.btn--cancel{
+border: none;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+color: #6B6B6A;
+opacity: 0.8;
+}

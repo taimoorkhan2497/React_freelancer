@@ -1,0 +1,17 @@
+.work-conatiner{
+    padding: 2% 3%;
+}
+.header{
+    display: flex;
+   justify-content: space-between;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    padding: 10% 33%;
+}
+.fields{
+    display: flex;
+    justify-content: space-around;
+
+}

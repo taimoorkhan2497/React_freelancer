@@ -1,0 +1,146 @@
+.membership-plan{
+background: #FFFFFF;
+margin-bottom: 63px;
+}
+
+.mp-heading{
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+padding: 25px 20px 30px 20px;
+display: flex;
+justify-content: space-between;
+}
+    
+.mp-heading button{
+width: 191px;
+height: 34px;
+background: #EE9821;
+border-radius: 2px;
+border: 1px solid #EE9821;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+.content-basic p{
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 28px;
+color: #6B6B6A;
+}
+
+.content-basic t{
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+color: #1DA799;
+opacity: 0.8;
+line-height: 20px;
+}
+
+.content-basic{
+   background-color:  #f8f8f8;
+   padding: 20px;
+   border-top: 2px solid #f0f0f0;
+}
+
+.buttons-basic{
+text-align: right;
+background-color:  #f8f8f8;
+padding: 20px;
+border-top: 2px solid #f0f0f0;
+}
+
+.buttons-basic p{
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+color: #6B6B6A;
+opacity: 0.8;
+}
+
+.buttons-basic button{
+width: 141px;
+height: 34px;
+background: #FFFFFF;
+opacity: 0.8;
+border: 1px solid #1DA799;
+box-sizing: border-box;
+border-radius: 2px;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+text-transform: uppercase;
+color: #1DA799;
+}
+
+.buttons-basic button:hover{
+background: #1DA799;
+color: white;
+}
+
+.MuiBox-root {
+padding: 15px !important;
+}
+
+.membership-info{
+    border-bottom: 2px solid #f0f0f0;
+    padding:15px 5px 5px 5px;
+
+}
+
+.membership-left{
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 28px;
+color: #6B6B6A;
+}
+
+.membership-right{
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 28px;
+color: #6B6B6A;
+opacity: 0.8;
+}
+
+.membership-plan .my-profile-links{
+    padding-top: 40px;
+}
+
+.membership-plan .MuiTab-wrapper{
+    align-items: unset; 
+    flex-direction: unset;
+    justify-content: unset;
+    padding-left: 7px;
+    font-family: Poppins;
+font-weight: 500;
+font-size: 14px;
+line-height: 28px;
+color: #6B6B6A;
+
+}
+
+.membership-plan .MuiTab-root{
+min-height: unset;
+min-width: 209px;
+text-transform: unset;
+}
+

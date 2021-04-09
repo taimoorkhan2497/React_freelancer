@@ -1,0 +1,226 @@
+.profile-setting{
+background-color: white;
+margin-bottom: 63px;
+}
+
+.ps-heading{
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+padding: 20px 0px 0px 20px;
+}
+
+.ps-selections,.ps-selections1 p{
+padding-top: 36px;
+padding-left: 20px;
+padding-bottom: 20px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+color: #6B6B6A;
+}
+
+.selection-button{
+background: #FFFFFF;
+border: 1px solid rgba(107, 107, 106, 0.2);
+box-sizing: border-box;
+border-radius: 4px;
+height: 36px;
+}
+
+.selection_button{
+  background: #FFFFFF;
+  border: 1px solid rgba(107, 107, 106, 0.2);
+  box-sizing: border-box;
+  border-radius: 4px;
+  height: 36px;
+  }
+
+.neww-button{
+background: #FFFFFF;
+border: 2px solid #1DA799;
+box-sizing: border-box;
+border-radius: 4px;
+height: 36px;
+}
+
+/* Radio Buttons */
+
+.radio-item {
+display: inline-block;
+position: relative;
+padding: 0 6px;
+margin-top: 4px;
+margin-left: 12px;
+}
+
+.radio-item1 {
+display: inline-block;
+position: relative;
+padding: 0 6px;
+margin-top: 4px;
+margin-left: 12px;
+}
+  
+.radio-item input[type='radio'] {
+display: none;
+}
+
+  .radio-item1 input[type='radio'] {
+    display: none;
+  }
+  
+  .radio-item label {
+    color: #666;
+    font-weight: normal;
+  }
+
+  .radio-item1 label {
+    color: #666;
+    font-weight: normal;
+  }
+  
+  .radio-item label:before {
+    content: " ";
+    display: inline-block;
+    position: relative;
+    top: 5px;
+    margin: 0 5px 0 0;
+    width: 16px;
+    height: 16px;
+    border-radius: 11px;
+    border: 1px solid #6B6B6A;
+    background-color: transparent;
+  }
+
+  .radio-item1 label:before {
+    content: " ";
+    display: inline-block;
+    position: relative;
+    top: 5px;
+    margin: 0 5px 0 0;
+    width: 16px;
+    height: 16px;
+    border-radius: 11px;
+    border: 1px solid #1DA799;
+    background-color: transparent;
+  }
+  
+  .radio-item input[type=radio]:checked + label:after {
+    border-radius: 11px;
+    width: 8px;
+    height: 8px;
+    position: absolute;
+    top: 9px;
+    left: 10px;
+    content: " ";
+    display: block;
+    background: #1DA799;
+  }
+
+  .radio-item1 input[type=radio]:checked + label:after {
+    border-radius: 11px;
+    width: 8px;
+    height: 8px;
+    position: absolute;
+    top: 9px;
+    left: 10px;
+    content: " ";
+    display: block;
+    background: #1DA799;
+  }
+
+  .card-as{
+    min-height: 128px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 12px rgba(37, 57, 74, 0.05);
+    border-radius: 4px;
+    padding-top: 20px;
+    padding-left: 20px;
+    cursor: pointer;
+  }
+
+  .card-as-green{
+    min-height: 128px;
+    background: rgba(29, 167, 153, 0.1);
+    border: 1px solid #1DA799;
+    border-radius: 4px;
+    padding-top: 20px;
+    padding-left: 20px;
+  }
+
+  .card-as t{
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+color: #6B6B6A;
+  }
+
+  .card-as p{
+    padding-top: 20px;
+}
+
+.card-as-green t{
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  color: #6B6B6A;
+}
+    
+.card-as-green p{
+  padding-top: 20px;
+}
+
+.as-dropdown .dropdown-comp {
+  width: 100%;
+  padding-right: 15px;
+}
+
+.as-dropdown p{
+ position: unset;
+}
+
+.profile-setting .as-dropdown .Select {
+ height: 36px !important;
+ position: unset;
+ width: 100%;
+}
+
+.my-profile-links{
+  padding-left: 20px;
+  padding-right: 20px;
+  justify-content: space-between;
+  display: flex;
+  padding-top: 110px;
+  padding-bottom: 38px;
+}
+
+.my-profile-links a{
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 0.01em;
+text-transform: capitalize;
+color: #6B6B6A;
+opacity: 0.8;
+}
+
+.my-profile-links button{
+width: 148px;
+height: 38px;
+background: #EE9821;
+border: 1px solid #EE9821;
+border-radius: 2px;
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 20px;
+text-transform: uppercase;
+color: #FFFFFF;
+}

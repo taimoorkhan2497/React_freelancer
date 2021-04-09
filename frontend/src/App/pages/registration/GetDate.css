@@ -1,0 +1,22 @@
+ 
+.selectcss{
+    width: 85px;
+    height: 36px;
+ 
+    background: #FFFFFF;
+    border: 1px solid rgba(107, 107, 106, 0.2);
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.GetDate .paddingTop_year{
+    padding-top: 30px;
+}
+
+
+.GetDate .heading_style2 {
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: normal;
+color: #6B6B6A;
+font-size: 12px;
+}

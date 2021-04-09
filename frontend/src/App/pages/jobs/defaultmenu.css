@@ -1,0 +1,115 @@
+body{
+    font-family: Poppins;
+}
+a{
+    text-decoration: none;
+}
+
+.default-menu{
+    width: 100%;
+}
+a.nav-link.dropdown-toggle{
+    padding: 0 !important;
+}
+nav.navbar.navbar-expand-md {
+    border-top: 1px solid rgba(107, 107, 106, .1);
+}
+ul.default-menu {
+    display: flex;
+}
+.default-menu-left li {
+    padding: 8px 14px 0 14px;
+    height: 34px;
+}
+a.nav-links {
+    color: #6B6B6A;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 14px;
+}
+a.nav-links:hover{
+    color: #EE9821;
+    text-decoration: none;
+}
+  
+ul.default-menu li:hover::after {
+    content: "";
+    display: block;
+    width: 20px;
+    height: 1.5px;
+    border-bottom: 1px solid #EE9821;;
+    margin: 0 auto;
+    background: #EE9821;
+    position: relative;
+    top: 16px;
+}
+ 
+
+a.notification {
+    text-decoration: none;
+}
+.notification {
+    background-color: #1DA799;
+    color: white;
+    text-decoration: none;
+    padding: 4px 9px 5px 9px;
+    position: relative;
+    display: inline-block;
+    border-radius: 31px;
+}
+.fa-bell:before {
+    content: "\f0f3";
+    padding: 2px;
+}
+  /* .notification .badge {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    padding: 5px 5px;
+    border-radius: 50%;
+    background: red;
+    color: white;
+  } */
+
+
+ul.nav.navbar-nav.ml-auto {
+    /* float: right; */
+    position: absolute;
+    right: -18px;
+    top: -27px;
+}
+ul.nav.navbar-nav.ml-auto li:before{
+    content: '';
+    display: inline-block;
+    vertical-align: middle;
+}
+.dropdown a{
+    color: #6B6B6A;
+}
+a.nav-link.dropdown-toggle {
+    padding: 2px 0 0 0;
+}
+.avatar-user1 {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: 0px;
+    margin: 0 15px;
+    position: relative;
+    bottom: 6px;
+}
+.dropdown-menu {
+    /* float: left; */
+    /* min-width: 10rem; */
+    border: none;
+    border-radius: 0;
+    box-shadow: 4px 3px 9px 1px #bdbcbc;
+    min-width: 126px;
+    padding: .5rem 0;
+    margin: .125rem 11px 0 0;
+}
+.dropdown-item {
+    font-size: 14px;
+    padding: 2px 8px 3px 10px;
+}

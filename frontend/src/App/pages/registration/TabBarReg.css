@@ -1,0 +1,283 @@
+.tabbar .tabbarMain_bg{
+    background: #f7f8fa;
+  }
+  
+  .tabbar .tabbar_sidebar_bg{
+    background: white;
+  }
+  
+  .tabbar .tabbar_next_pre_btn_background{
+    background: #f7f8fa;
+  }
+  .tabbar .tabbar_panel_background{
+    background: #f7f8fa;
+  }
+  
+  .tabbar .Buttoncls {
+    cursor: pointer;
+    font-family: inherit;
+    color: rgb(115 115 115);
+    background: #ffffff;
+    border: 2px solid #6B6B6A;
+    width: 25px;
+    height: 25px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    opacity: 0.9;
+    padding: 2px 5px;
+    border-radius: 25px;
+  }
+
+  .Tab.is-active .Button {
+    background: #ffffff;
+    color: #EE9821;
+    border-radius: 25px;
+    border: 2px solid #EE9821 ;
+  }
+  .tabbar .ButtonclsActive {
+    width: 25px;
+    height: 25px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    opacity: 0.9;
+    padding: 2px 5px;
+    background: #ffffff;
+    color: #EE9821;
+    border-radius: 25px;
+    border: 2px solid;
+  }
+  
+  .container.tabbarContainer {
+    max-width: 1921px;
+  }
+  
+  .tabbar .line{
+  width: 0px;
+  border-left: 1px dashed #a0a0a0;
+  height: 40px;
+  margin-left: 12px;
+  }
+
+  .Tab.is-active .line{
+  border: 1px dashed #EE9821;
+  }
+
+  .tabbar .lineActive{
+  border-left: 1px dashed #EE9821;
+  }
+
+  .tabbar .lineActivee{
+    border-left: 1px dashed red;
+    width: 0px;
+  height: 40px;
+  margin-left: 12px;
+    }
+  
+  .but{
+  background: #ffffff;
+  border :1px solid #6B6B6A;
+  border-radius: 25px;
+  border: 2px solid;
+  }
+  
+  .tabbar .text2{
+  font-family: Poppins;
+  line-height: 20px;
+  margin: 3%;
+  padding-left: 1%; 
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: #6B6B6A;
+  }
+  
+  .tabbar .tb_nextButton{
+  background-color: #EE9821;
+  width: 116px;
+  height:36px;
+  border-radius: 2px;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  font-style: normal;
+  font-weight: 500px;
+  font-size: 12px;
+  line-height: 20px;
+  float: right;
+  margin-right: 5%;
+  cursor: pointer;
+  border: none;
+  }
+  
+  .tabbar .tb_prevButton{
+  border: none;
+  height: 37px;
+  width: 16%;
+  border-radius: 18px;
+  border: none;
+  cursor: pointer;
+  font-size: 13px;
+  }
+  
+  .tabbar .text2hidden {
+    padding-left: 20px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    }
+
+  .tabbar .text2y-text{
+    color: #EE9821;
+    padding-left: 20px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+  }
+  
+  .tb_prevButton:focus,
+  .tb_prevButton:hover {
+    outline: 0;
+    background: #899499;
+  }
+  
+  .left_img{
+     margin-top: 6%;
+  }
+  
+  .tabbar .Main {
+    overflow:hidden;
+  }
+  
+  .row.tabbarMainRow {
+    display: block!important;
+  }
+  
+  .tabbar_min_height{
+    min-height: 100vh;
+  }
+  
+.btn-circle.btn-sm { 
+    width: 30px; 
+    height: 30px; 
+    padding: 6px 0px; 
+    border-radius: 15px; 
+    font-size: 8px; 
+    text-align: center; 
+} 
+
+
+  @media screen and (max-width: 1105px) {
+    .tabbar .text2 {
+      font-size: 13px;
+    }
+  
+  }
+  
+  
+  @media screen and (max-width: 965px) {
+    .tabbar .text2 {
+          font-size: 11px;
+    }
+  
+  
+  
+  
+  }
+  @media screen and (max-width: 873px) {
+    .tabbar .text2hidden {
+    padding-left: 10px !important;
+    font-size: 14px !important;
+    }
+
+    .tabbar .text2y-text{
+    padding-left: 10px !important;
+    font-size: 14px !important;
+    color: #EE9821
+    }
+
+    .tabbar .Buttoncls{
+      cursor: pointer;
+      font-family: inherit;
+      color: rgb(115 115 115);
+      background: #ffffff;
+      border: 2px solid #6B6B6A;
+      width: 25px;
+      height: 25px;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 12px;
+      line-height: 18px;
+      opacity: 0.9;
+      padding: 2px 5px;
+      border-radius: 25px;
+  }
+    .tabbar .line {
+  
+      margin-left: 12px;
+  }
+  
+  
+  
+  }
+  @media screen and (max-width: 786px) {
+              .tabbar .text2 {
+                               font-size: 10.5px;
+                            }
+              .tabbar .Buttoncls{
+                cursor: pointer;
+                font-family: inherit;
+                color: rgb(115 115 115);
+                background: #ffffff;
+                border: 2px solid #6B6B6A;
+                width: 25px;
+                height: 25px;
+                font-style: normal;
+                font-weight: 500;
+                font-size: 12px;
+                line-height: 18px;
+                opacity: 0.9;
+                padding: 2px 5px;
+                border-radius: 25px;
+              }
+
+              .btn-circle.btn-md { 
+                cursor: pointer;
+                font-family: inherit;
+                color: rgb(115 115 115);
+                background: #ffffff;
+                border: 2px solid #6B6B6A;
+                width: 25px;
+                height: 25px;
+                font-style: normal;
+                font-weight: 500;
+                font-size: 12px;
+                line-height: 18px;
+                opacity: 0.9;
+                padding: 2px 5px;
+                border-radius: 25px;
+            } 
+  
+  
+              .tabbar .line {
+  
+                             margin-left: 12px;
+                         }
+  
+  }
+
+  .tabbar .nextButtonDiv{
+    width: 100%;
+    float: left;
+  }
+  
+  .y-text{
+    color: #EE9821;
+  }
+
+  

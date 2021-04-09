@@ -1,0 +1,97 @@
+.main-bg {
+    background: #edeeee;
+  }
+  .SignIn-flex-container .btn-default {
+    background: #ee9821;
+    border-radius: 4px;
+    color: #fff;
+    border-color: none;
+  }
+  .SignIn-flex-container button.btn.btn--project.btn--medium {
+    background: #ee9821;
+    color: #fff;
+    width: 116px !important;
+    
+  }
+  .btn-primary {
+    background: #0078b9;
+    border-radius: 4px;
+    color: #fff;
+    border-color: none;
+  }
+  .text-content {
+    overflow: hidden;
+    background: #098073;
+    color: #fff;
+    font-family: Poppins;
+    font-size: 16px;
+    letter-spacing: 0em;
+  }
+  .checkbox-text {
+    color: #1fad8e;
+  }
+  .main-bg .col-md-6 {
+    padding-left: 0px;
+    padding-right: 0px;
+    top: -112px;
+  }
+  .floww {
+    position: relative;
+  }
+  .si-pic-tag {
+    position: absolute;
+    top: -32px;
+  }
+  
+
+  
+
+.signInPage .error-message {
+  color: #cc0033;
+  display: inline-block;
+  font-size: 12px;
+  line-height: 15px;
+  margin: 5px 0 0;
+}
+
+ .input-group .error-message {
+  display: none;
+}
+
+/* Error Styling */
+
+
+
+.signUpPage .error label {
+  color: #cc0033;
+}
+
+.signUpPage .error input[type="text"] {
+  background-color: #fce4e4;
+  border: 1px solid #cc0033;
+  outline: none;
+}
+.signUpPage .error input[type="password"] {
+  background-color: #fce4e4;
+  border: 1px solid #cc0033;
+  outline: none;
+}
+
+.signUpPage .error-message {
+  color: #cc0033;
+  display: inline-block;
+  font-size: 12px;
+  line-height: 15px;
+  margin: 5px 0 0;
+}
+
+.signUpPage .hide-icon-position{
+  display: flex;
+  position: relative;
+}
+
+.signUpPage .hide-icon-position .hide-icon{
+  position: absolute;
+  top: -5px;
+  right: -6px;
+}
